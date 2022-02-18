@@ -1,5 +1,5 @@
 # italian-kbd-tilde-backtick
-Keyboard layout with shortcuts for ~ and `
+Italian keyboard layout with shortcuts for tilde (`AltGr+'`) and backtick (`AltGr+ì`)
 
 ## Installation
 
